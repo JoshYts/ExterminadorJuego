@@ -1,2 +1,2 @@
 # ExterminadorJuego
-juego basico de exterminador
+Proyecto Computacion Grafica
