@@ -8,3 +8,4 @@
 19Oct - repasando los codigos hechos por el profesor de laboratorio Grafica
 20Oct - Ya vamos poniendo el codigo :3
 20Oct - Mi gato se cayo de la mesa y me corto la energia electrica, estoy volviendo a empezar de nuevo el codigo :(
+20Oct - Terminamos los movimientos de mi personaje listo para ser probado
