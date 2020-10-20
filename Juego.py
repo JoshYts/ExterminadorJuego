@@ -121,11 +121,11 @@ while ejecuta:
         cuentaPasos = 0
 
     #Tecla W - Moviemiento hacia arriba
-    if keys[pygame.K_w] and py > 100:
+    if keys[pygame.K_w] and py > 270:
         py -= velocidad
 
     #Tecla S - Moviemiento hacia abajo
-    if keys[pygame.K_s] and py < 300:
+    if keys[pygame.K_s] and py < 370:
         py += velocidad
     #Tecla SPACE - Salto
     if not (salto):
