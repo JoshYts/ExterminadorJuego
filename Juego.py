@@ -7,7 +7,7 @@ pygame.init()
 #Pantalla - ventana
 W, H = 1300, 650
 PANTALLA = pygame.display.set_mode((W, H))
-pygame.display.set_caption('Exterminator')
+pygame.display.set_caption('Juego JOSH')
 icono=pygame.image.load('icon.png')
 pygame.display.set_icon(icono)
 
