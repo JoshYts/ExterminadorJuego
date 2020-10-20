@@ -1,11 +1,11 @@
-14Oct - Como creador del proyecto me dedique a crear el personaje pincipal en piskel
-14Oct - Presente el proyecto a la profesora de Computacion grafica
-15Oct - Etuve viendo los fondos para el juego y aun no me decido
-15Oct - Me agarro fiebre ya no pude continuar y me dormi
-16Oct - sigo con fiebre pero a seguir con el proyecto
-16Oct - subiendo las imagenes al github
-19Oct - empezando con el codigo y los movimientos
-19Oct - repasando los codigos hechos por el profesor de laboratorio Grafica
-20Oct - Ya vamos poniendo el codigo :3
-20Oct - Mi gato se cayo de la mesa y me corto la energia electrica, estoy volviendo a empezar de nuevo el codigo :(
-20Oct - Terminamos los movimientos de mi personaje listo para ser probado
+14Oct - 9:39am Como creador del proyecto me dedique a crear el personaje pincipal en piskel
+14Oct - 11:45pm Presente el proyecto a la profesora de Computacion grafica
+15Oct - 12:59pm Etuve viendo los fondos para el juego y aun no me decido
+15Oct - 7:15pm Me agarro fiebre ya no pude continuar y me dormi
+16Oct - 8:34pm Sigo con fiebre pero a seguir con el proyecto
+16Oct - 2:36pm Subiendo las imagenes al github
+19Oct - 6:47pm Empezando con el codigo y los movimientos
+19Oct - 11:07pm Repasando los codigos hechos por el profesor de laboratorio Grafica
+20Oct - 8:19am Ya vamos poniendo el codigo :3
+20Oct - 10:41am Mi gato se cayo de la mesa y me corto la energia electrica, estoy volviendo a empezar de nuevo el codigo :(
+20Oct - 2:39pm Terminamos los movimientos de mi personaje listo para ser probado
