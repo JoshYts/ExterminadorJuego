@@ -1,4 +1,4 @@
-# **<center> 💻 G3 2020-I (ALGORITMOS PARALELOS Y DISTRIBUIDOS) 💻 </center>**
+# **<center> 💻 G7 (COMPUTACION GRAFICA) 💻 </center>**
 
 ---
 
