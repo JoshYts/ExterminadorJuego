@@ -14,6 +14,10 @@ pygame.display.set_icon(icono)
 #Fondo del juego
 fondo = pygame.image.load('imagenes/fondos/1.jpg')
 
+#Música de fondo
+pygame.mixer.music.load('sonido/intergalactic_odyssey.ogg')
+pygame.mixer.music.play(-1)
+
 #Personaje
 quieto = pygame.image.load('imagenes/principal/idle1.png')
 
@@ -33,6 +37,12 @@ caminaIzquierda = [pygame.image.load('imagenes/principal/run1-izq.png'),
 
 salta = [pygame.image.load('imagenes/principal/jump1.png'),
          pygame.image.load('imagenes/principal/jump2.png')]
+
+#Sonido
+sonido_arriba = pygame.image.load('sonido/volume_up.png')
+sonido_abajo = pygame.image.load('sonido/volume_down.png')
+sonido_mute = pygame.image.load('sonido/volume_muted.png')
+sonido_max = pygame.image.load('sonido/volume_max.png')
 
 x=0
 px = 50
@@ -141,6 +151,31 @@ while ejecuta:
         else:
             cuentaSalto = 10
             salto = False
+
+    # Control del audio
+    # Baja volumen
+    if keys[pygame.K_9] and pygame.mixer.music.get_volume() > 0.0:
+        pygame.mixer.music.set_volume(pygame.mixer.music.get_volume() - 0.01)
+        PANTALLA.blit(sonido_abajo, (850, 25))
+    elif keys[pygame.K_9] and pygame.mixer.music.get_volume() == 0.0:
+        PANTALLA.blit(sonido_mute, (850, 25))
+
+    # Sube volumen
+    if keys[pygame.K_0] and pygame.mixer.music.get_volume() < 1.0:
+        pygame.mixer.music.set_volume(pygame.mixer.music.get_volume() + 0.01)
+        PANTALLA.blit(sonido_arriba, (850, 25))
+    elif keys[pygame.K_0] and pygame.mixer.music.get_volume() == 1.0:
+        PANTALLA.blit(sonido_max, (850, 25))
+
+    # Desactivar sonido
+    elif keys[pygame.K_m]:
+        pygame.mixer.music.set_volume(0.0)
+        PANTALLA.blit(sonido_mute, (850, 25))
+
+    # Reactivar sonido
+    elif keys[pygame.K_COMMA]:
+        pygame.mixer.music.set_volume(1.0)
+        PANTALLA.blit(sonido_max, (850, 25))
 
     # Actualización de la ventana
     pygame.display.update()
