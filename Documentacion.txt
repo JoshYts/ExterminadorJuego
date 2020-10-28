@@ -9,3 +9,15 @@
 20Oct - 8:19am Ya vamos poniendo el codigo :3
 20Oct - 10:41am Mi gato se cayo de la mesa y me corto la energia electrica, estoy volviendo a empezar de nuevo el codigo :(
 20Oct - 2:39pm Terminamos los movimientos de mi personaje listo para ser probado
+23Oct - 12:39pm Empezando el nuevo juego
+24Oct - 8:12am Matriz personaje1 Iniciado
+24Oct - 3:45pm Matriz personaje1 terminado
+24Oct - 4:30pm Matriz Piedra Iniciado
+24Oct - 7:36pm Matriz Piedra Terminado
+26Oct - 8:13am Terminando el codigo y los movimientos
+26Oct - 6:47pm Investigando como ponerle musica de fondo
+26Oct - 9:56pm Probando el juego con la musica
+27OcT - 4:25pm Queria subirlo al GitHub pero se fue la energia electrica :´v
+28Oct - 10:25am Subiendo todo al GitHub
+28Oct - 11:30am Pensando en que me dira la profesora ya que mi juego es basico por el poco tiempo desde la ultima revision
+
