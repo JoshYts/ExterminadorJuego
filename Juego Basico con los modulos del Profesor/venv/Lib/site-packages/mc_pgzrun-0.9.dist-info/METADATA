@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: mc-pgzrun
+Version: 0.9
+Summary: 自用自改零模板二维游戏框架
+Home-page: http://pypi.python.org/pypi/mc_pgzrun
+Author: Hugn
+Author-email: wang1183478375@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Education
+Classifier: Topic :: Games/Entertainment
+Requires-Dist: pygame (<2.0,>=1.9.2)
+Requires-Dist: numpy
+Requires-Dist: enum34 ; python_version < "3.4"
+
+UNKNOWN
+
+

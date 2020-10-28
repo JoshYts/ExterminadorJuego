@@ -1,0 +1,3 @@
+[console_scripts]
+mc_pgzrun = pgzero.runner:main
+
