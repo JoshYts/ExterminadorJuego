@@ -497,7 +497,7 @@ def MovePersonaje1(x, y, sx, sy, size,time):
 def Movepiedra(x, y, sx, sy, size,time) -> object:
 	#clearCanvas()
 	despintarpiedra(y,-x,size)
-	vertices = Traslate([[x, y, 5]], sx, sy)
+	vertices = Traslate([[x, y, 10]], sx, sy)
 	x = vertices[0][0]
 	y = vertices[0][1]
 	piedra(y, -x, size)
