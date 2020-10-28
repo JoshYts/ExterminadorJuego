@@ -27,6 +27,7 @@
 1.1) Juego Pygame 
 - Juego sobre el exterminador donde tenemos un personaje que podemos manipularlo a nuestro antojo
 - Controles de mov. A,W,S,D,SPACE
+
 1.2) Juego pygame.OpenGL(carpeta: Juego basico)
 - Juego sobre el mismo exterminador donde tenemos a nuestro personaje huyendo de los proyectiles enemigos
 - Objetivo: Esquivar una cantidad determinada de proyectiles para ganar
