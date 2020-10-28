@@ -13,10 +13,9 @@
 
 #### Trabajo:
 
-- 1) Proyecto Grafica
-
-- 1.1) Juego Pygame 
-- 1.2) Juego pygame.OpenGL(carpeta: Juego basico)
+1) Proyecto Grafica
+1.1) Juego Pygame 
+1.2) Juego pygame.OpenGL(carpeta: Juego basico)
 
 #### Autores:✒️
 
