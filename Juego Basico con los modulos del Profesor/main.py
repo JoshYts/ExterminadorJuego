@@ -13,6 +13,10 @@ def Colision_MT(x,y,x0,xf,h):
 #inicia juego
 pygame.init()
 
+#Música de fondo
+pygame.mixer.music.load('sonido/Cave Story OST - Opening Theme.mp3')
+pygame.mixer.music.play(-1)
+
 ancho = 1000
 alto = 900
 velocidadX = 10
@@ -26,7 +30,7 @@ width, height = 1000, 900
 pygame.init()
 #display_openGL(width, height, scale)
 ventana = pygame.display.set_mode((width, height), pygame.OPENGL)
-pygame.display.set_caption('JUEGO JOSH')
+pygame.display.set_caption('Juego Josh: ESQUIVA 30 OBSTACULOS Y GANAS')
 
 #Colo de fondo
 glClearColor(11/255,30/255,48/255,1.0)
@@ -92,7 +96,7 @@ while not terminado:
             y2 = 400
             x2, y2 = Movepiedra(x2, y2, 0, 0, sizePiedra, 0)
             contador += 1
-    if contador == 5:
+    if contador == 30:
        print()
        print("***GANASTE***")
        break
