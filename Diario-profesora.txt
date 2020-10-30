@@ -1,2 +1,12 @@
 7-Oct nada. nota 0
+
 14-Oct personajes, canvas, sin codigo, diario ok (mejorese Josh :)). 1/4 contribuyen. Nota 14
+
+23-Oct pygame
+
+28-oct:
+usaron lib. Prof. Edwin
+jugable
+
+30 Oct
+falta el profe edwine en el readme :)
